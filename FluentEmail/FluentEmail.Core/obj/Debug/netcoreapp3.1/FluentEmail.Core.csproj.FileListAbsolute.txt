@@ -1,0 +1,9 @@
+D:\Workspace\FluentEmail\FluentEmail\FluentEmail.Core\bin\Debug\netcoreapp3.1\FluentEmail.Core.deps.json
+D:\Workspace\FluentEmail\FluentEmail\FluentEmail.Core\bin\Debug\netcoreapp3.1\FluentEmail.Core.dll
+D:\Workspace\FluentEmail\FluentEmail\FluentEmail.Core\bin\Debug\netcoreapp3.1\FluentEmail.Core.pdb
+D:\Workspace\FluentEmail\FluentEmail\FluentEmail.Core\obj\Debug\netcoreapp3.1\FluentEmail.Core.csprojAssemblyReference.cache
+D:\Workspace\FluentEmail\FluentEmail\FluentEmail.Core\obj\Debug\netcoreapp3.1\FluentEmail.Core.AssemblyInfoInputs.cache
+D:\Workspace\FluentEmail\FluentEmail\FluentEmail.Core\obj\Debug\netcoreapp3.1\FluentEmail.Core.AssemblyInfo.cs
+D:\Workspace\FluentEmail\FluentEmail\FluentEmail.Core\obj\Debug\netcoreapp3.1\FluentEmail.Core.csproj.CoreCompileInputs.cache
+D:\Workspace\FluentEmail\FluentEmail\FluentEmail.Core\obj\Debug\netcoreapp3.1\FluentEmail.Core.dll
+D:\Workspace\FluentEmail\FluentEmail\FluentEmail.Core\obj\Debug\netcoreapp3.1\FluentEmail.Core.pdb
